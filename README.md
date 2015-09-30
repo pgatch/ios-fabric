@@ -5,7 +5,7 @@
 
 ![Fabric iOS](https://flock.fabric.io/images/fabric_logo.png)
 
-This private repo has been created to manually manage the [Fabric](https://fabric.io) framework. Unfortunately, the authors of Fabric do not provide access to a public repo, so we are linking this repository as a git submodule in order to manage the dependancy for the higi iOS app.
+This private repo has been created to manually manage the [Fabric](https://fabric.io) framework. Unfortunately, the authors of Fabric do not provide access to a public repo, so we are linking this repository for use with `git submodule` in order to manage the dependancy for the [higi iOS app](https://github.com/higish/ios-main.git).
 
 ## Installation Instructions
 
